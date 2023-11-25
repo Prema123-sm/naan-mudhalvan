@@ -1,6 +1,8 @@
 Naan Mudhalvan project name - social media(Full stack with Java) 
+
 Team members
-Name Register name
+
+Name  Register number
 Bandarala Pradeepreddy.111420243003
 
 kanuma obularavikanthreddy.111420243012
