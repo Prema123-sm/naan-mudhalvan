@@ -2,8 +2,11 @@ Naan Mudhalvan project name - social media(Full stack with Java)
 Team members
 Name Register name
 Bandarala Pradeepreddy.111420243003
-kanuma obula ravikanthreddy.111420243012
+
+kanuma obularavikanthreddy.111420243012
+
 pandi praveen vasmi.111420243015
+
 Premavathi K.111420243019
 
 # MERN Stack - Build a social media app 
