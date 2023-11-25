@@ -6,7 +6,7 @@ Name  Register number
 
 Bandarala Pradeep reddy.111420243003
 
-kanuma obularavikanthreddy.111420243012
+kanuma obula ravikanthreddy.111420243012
 
 pandi praveen vasmi.111420243015
 
