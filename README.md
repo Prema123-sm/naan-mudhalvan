@@ -1,3 +1,11 @@
+Naan Mudhalvan project name - social media(Full stack with Java) 
+Tem members
+Name Register name
+Bandarala PRadeepreddy.111420243003
+kanuma obula ravikanth reddy.111420243012
+pandi proceed VAMSI. 111420243015
+Premavathi K. 111420243019
+
 # MERN Stack - Build a social media app 
 > MERN Stack Build  a social media app (instagram , facebook, twitter clone) with MERN  + Redux  + Bootstrap 4
 
